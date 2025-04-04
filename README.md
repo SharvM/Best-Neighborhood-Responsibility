@@ -1,6 +1,7 @@
 # BigIdeasFinalProject
 Final Project Documentation
 
+MAIN IDEA = MOST RESPONSIBLE NEIGHBORHOODS
 
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f - Arrest Data
 https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4 - Firearm Data 
