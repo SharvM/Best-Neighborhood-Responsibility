@@ -1,4 +1,4 @@
-# BigIdeasFinalProject:
+# Most Responsible Neighborhood (Group 8):
 
 Team name - Responsabilabuddies (RBB) 
 
